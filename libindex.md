@@ -119,9 +119,9 @@
 
 *Jane Eyre (I)(II)* 北京时代华文书局 H319.4: I 1484
 
-*Jean-Christophe Vol II* 辽宁人民出版社 H319.4: I 864
+*Jean-Christophe Vol II* Trans. 辽宁人民出版社 H319.4: I 864
 
-*Jude the Obscure* H319.4: I 731
+*Jude the Obscure* 中译出版社 H319.4: I 731
 
 *Kidnapped* 辽宁人民出版社H319.4: I 88
 
