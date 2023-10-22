@@ -7,8 +7,6 @@
 
 *An American Tragedy* 中译出版社 H319.4: I 1667
 
-《A.R. 阿蒙斯诗歌精译》 南开大学出版社 H319.4: I 1363
-
 *As You Like it* (RSC) 外研社 H319.4: I 739
 
 *As You Like it* 双语 外研社 H319.4: I 819
@@ -57,6 +55,8 @@
 
 *Emmer* 云南人民出版社 H319.4: I 933
 
+*Emmer* 中译出版社 H319.4: 1229
+
 *And Every Morning the Way Home Gets Longer and Longer* Trans. 中英双语 北京联合出版公司 H319.4: I 991
 
 *Far from the Madding Crowd* 中译出版社 H319.4: I 736
@@ -64,6 +64,8 @@
 *For Whom the Bell Tolls* 中译出版社 H319.4: I 699
 
 *Frankenstein* 牛津大学出版社，译林出版社引进 H319.4: I 1005
+
+*The Gadfly* 辽宁人民出版社 H319.4: I 94
 
 *Gargantua and Pantagruel (First Three Books of Five Books)* 辽宁人民出版社H319.4: I 69
 
@@ -109,6 +111,8 @@
 
 *Huckleberry Finn* 中译出版社 H319.4: I 691
 
+*Of Human Bondage I, II* 译林出版社 H319.4: I 1515
+
 *Intellectual Diversion: Maugham on English Literature* 译林出版社 H319.4: I 855
 
 *Jane Eyre* 云南人民出版社 H319.4: I 891
@@ -153,7 +157,11 @@
 
 *Mansfield Park* 译林出版社 H319.4: I 997
 
+*Mansfield Park* 中译出版社 H319.4: 1233
+
 *Of Mice and Men* 译林出版社 H319.4: I 1489
+
+*The Mill on the Floss* 辽宁人民出版社 H319.4: 1236
 
 *The Mayor of Casterbridge* 中译出版社 H319.4: I 732
 
@@ -167,6 +175,8 @@
 
 *The Merchant of Venice* 中译出版社 H319.4: I 807
 
+*The Merchant of Venice* 双语 译林出版社 H319.4: I 1330
+
 *Les Misérables 2/5* Trans. 辽宁人民出版社 H319.4: I 99
 
 *Les Misérables 1/5* Trans. 辽宁人民出版社 H319.4: I 1311
@@ -177,11 +187,15 @@
 
 *Much Ado about Nothing* 双语 外研社 H319.4: I 812
 
+*Much Ado about Nothing* 双语 译林出版社 H319.4: I 1584
+
 *The Nightingale and the Rose* 译林出版社 H319.4: I 886
+
+*Northanger Abby* 中译出版社 H319.4: I 1234
 
 *Notre-Dame de Paris* Trans. 牛津大学出版社，译林出版社引进 H319.4: I 901
 
-==*The Old Man and the Sea* 云南人民出版社==
+*The Old Man and the Sea* 云南人民出版社 H319.4: I 1032
 
 *The Old Man and the Sea* 北京时代华文出版社 H319.4: I 925
 
@@ -235,6 +249,8 @@
 
 *Robinson Crusoe* 译林出版社 H319.4: I 955
 
+*Robinson Crusoe* 民主与建设出版社 H319.4: I 1661
+
 *Romeo and Juliet* 双语 外研社 H319.4: I 813
 
 *The Scarlet Letter* 译林出版社 H319.4: I 879
@@ -248,6 +264,8 @@
 *Sense and Sensibility* 云南人民出版社 H319.4: I 973
 
 *Sense and Sensibility* 中国纺织出版社 H319.4: I 801
+
+*Sense and Sensibility* 中译出版社 H319.4: 1232
 
 *Sherlock Holmes: A Study in Scarlet* 译林出版社H319.4: I 1369
 
@@ -319,24 +337,22 @@
 
 *Uncle Tom's Cabin* 云南人民出版社 H319.4: I 979
 
+《A.R. 阿蒙斯诗歌精译》 南开大学出版社 H319.4: I 1363
+
+《西南联大英文课：大二英文读本》中译出版社 H319.3: 393
+
 ### 中文
 《空鸟迹：王安石诗词中英本》 新世界出版社 H319.4: I 1007
 
-《汉魏六朝诗选》许渊冲译 五洲传播出版社 中华书局 H319.4: I 767
-
 《画说宋词：汉英对照》许渊冲译，中译出版社 H319.4:I 1485
 
-《宋元明清诗选》许渊冲、许明译 五洲传播出版社 中华书局 H319.4: I 754
-
-《西厢记》许渊冲 许明译 五洲传播出版社 中华书局 H319.4: I 994
-
-《许渊冲译唐诗三百首》中译出版社 H319.4: I 1487
+《杨宪益杨苡兄妹译诗》中译出版社 H319.4: I 1510
 
 《英译唐诗精选》W.J.B. Fletcher 中国画报出版社 H319.4: I 975
 
 ### 德语
 《围城》外研社 H339.4: I 19
 
-《外教社德语阅读系列》H339.4: I 26，27，28，29，30
+《外教社德语阅读系列》H339.4: I 24, 25, 26，27，28，29，30
 
 ### 法语
