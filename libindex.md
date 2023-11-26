@@ -7,6 +7,8 @@
 
 *An American Tragedy* 中译出版社 H319.4: I 1667
 
+*As I Lay Dying* 中译出版社 H319.4: I 735
+
 *As You Like it* (RSC) 外研社 H319.4: I 739
 
 *As You Like it* 双语 外研社 H319.4: I 819
@@ -72,6 +74,9 @@
 *Gargantua and Pantagruel (Latter Two Books of Five Books)* 辽宁人民出版社H319.4: I 69
 
 *Gone with the Wind I, II, III* 四川人民出版社 H319.4: I 785
+
+*Gone with the Wind I, II* 浙江教育出版社 H319.4: I 1688
+
 
 *The Grapes of Wrath* 译林出版社 H319.4: I 881
 
@@ -243,6 +248,10 @@
 
 *The Return of the Native* 辽宁人民出版社 H319.4: I 97
 
+
+*The Return of the Native* 中译出版社 H319.4: I 737
+
+
 *The Return of Sherlock Holmes* 中译出版社 H319.4: I 684
 
 *Robinson Crusoe* 云南人民出版社 H319.4: I 1331
@@ -256,6 +265,8 @@
 *The Scarlet Letter* 译林出版社 H319.4: I 879
 
 *Selected Poems of Edmund Spenser: Sonnets and Others* 浙江大学出版社 H319.4: I 1027
+
+*Selected Poems of John Keats* 外研社 H319.4：I 797~
 
 *Selected Stories by Maupassant* Trans. 译林出版社 H319.4: I 1446
 
