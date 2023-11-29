@@ -5,13 +5,15 @@
 
 *Alice's Adventures in Wonderland Through the Looking-Glass* 云南人民出版社 H319.4: I 951
 
+*American History: A Very Short Introduction* 牛津通识系列 外研社 H319.4: K 59
+
 *An American Tragedy* 中译出版社 H319.4: I 1667
 
 *As I Lay Dying* 中译出版社 H319.4: I 735
 
-*As You Like it* (RSC) 外研社 H319.4: I 739
+*As You Like It* (RSC) 外研社 H319.4: I 739
 
-*As You Like it* 双语 外研社 H319.4: I 819
+*As You Like It* 双语 外研社 H319.4: I 819
 
 *The Ballad of the Sad Café* 译林出版社 H319.4: I 714
 
@@ -43,6 +45,8 @@
 
 *The Comedy of Errors* (RSC) 外研社 H319.4: I 742
 
+*The Curious Case of Benjamin Button and Other Stories* 译林出版社 H319.4: I 865
+
 *David Copperfield (I)(II)* 译林出版社 H319.4: I 1432
 
 *David Copperfield Vol. I, Vol. II* 辽宁人民出版社 H319.4: I 82
@@ -64,6 +68,8 @@
 *Far from the Madding Crowd* 中译出版社 H319.4: I 736
 
 *For Whom the Bell Tolls* 中译出版社 H319.4: I 699
+
+*Francis Bacon's Essays* 中国宇航出版社 H319.4: I 59
 
 *Frankenstein* 牛津大学出版社，译林出版社引进 H319.4: I 1005
 
@@ -118,6 +124,8 @@
 
 *Of Human Bondage I, II* 译林出版社 H319.4: I 1515
 
+*Human Evolution: A Very Short Introduction* 牛津通识系列 外研社 H319.4: Q 2
+
 *Intellectual Diversion: Maugham on English Literature* 译林出版社 H319.4: I 855
 
 *Jane Eyre* 云南人民出版社 H319.4: I 891
@@ -145,6 +153,8 @@
 *Letter from an Unknown Woman and other Stories* Trans. 译林出版社 H319.4: I 892
 
 *Little Women* 云南人民出版社 H319.4: I 979
+
+*Little Women* 世界知识出版社 H319.4: I 1669
 
 *Lincoln the Unknown* 译林出版社 H319.4: K 68
 
@@ -230,6 +240,8 @@
 
 *A Poetry Collection of Keats* 中国宇航出版社 H319.4: I 1342
 
+*Pollyanna* 天津人民出版社 H319.4：I 847
+
 *A Portrait of the Artist as a Young Man* 辽宁人民出版社 H319.4: I 68
 
 *The Portrait of a Lady* 中译出版社 H319.4: I 1666
@@ -251,7 +263,6 @@
 
 *The Return of the Native* 中译出版社 H319.4: I 737
 
-
 *The Return of Sherlock Holmes* 中译出版社 H319.4: I 684
 
 *Robinson Crusoe* 云南人民出版社 H319.4: I 1331
@@ -266,17 +277,22 @@
 
 *Selected Poems of Edmund Spenser: Sonnets and Others* 浙江大学出版社 H319.4: I 1027
 
-*Selected Poems of John Keats* 外研社 H319.4：I 797~
+*Selected Poems of John Keats* 外研社 H319.4：I 797
 
 *Selected Stories by Maupassant* Trans. 译林出版社 H319.4: I 1446
 
 *Selected Stories of O. Henry* 云南人民出版社 H319.4: I 976
+
+*Selected Stories of Thomas Hardy" 译林出版社 H319.4: I.851
 
 *Sense and Sensibility* 云南人民出版社 H319.4: I 973
 
 *Sense and Sensibility* 中国纺织出版社 H319.4: I 801
 
 *Sense and Sensibility* 中译出版社 H319.4: 1232
+
+
+*Sense and Sensibility* 中译出版社 H319.4: I  53
 
 *Sherlock Holmes: A Study in Scarlet* 译林出版社H319.4: I 1369
 
@@ -329,6 +345,8 @@
 *Vanity Fair* 辽宁人民出版社 H319.4: I 702
 
 *The Wind in the Willows* 云南人民出版社 H319.4: I 1371
+
+*The Winter's Tale* 双语 外研社 H319.4: I 771
 
 *Woman in Love* 中译出版社 H319.4: I 690
 
