@@ -45,6 +45,8 @@
 
 *The Comedy of Errors* (RSC) 外研社 H319.4: I 742
 
+*Crime and Punishment* Trans 辽宁人民出版社 H319.4: I 90
+
 *The Curious Case of Benjamin Button and Other Stories* 译林出版社 H319.4: I 865
 
 *David Copperfield (I)(II)* 译林出版社 H319.4: I 1432
