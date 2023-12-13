@@ -376,7 +376,7 @@
 
 《杨宪益 杨苡兄妹译诗》 中译出版社 H319.4: I 1510
 
-《⟨自然⟩百年科学经典》双语 外研社 N53 6-f12
+《⟨自然⟩百年科学经典》双语 外研社 N53 6-12
 
 ### 中文
 《空鸟迹：王安石诗词中英本》 新世界出版社 H319.4: I 1007
@@ -430,15 +430,79 @@
 
 
 ### 法语
+*Alliance Française 130 ans* TU-882: 23
+
+*Ambassades de France en Chine* H32:127
+
 *Les Bourgeois Gentilhomme* 改编 双语 北京语言大学出版社 H339.4: I 24
+
+*Cent Ans de Chanson Française* H329.4: 70
+
+*Commentaire xxxe Anniversaire* H32:121
+
+*La Disparition de Josef Mengele* 影印 H329.4：59
+
+*Écrire et Parler le Bon Français* H324:21
+
+*Elysée 2007 Le Guide de la présidentielle* H32: 116
+
+*L'Europe, Quel Modèle Économique et Social?* 法英双语 H32:112
+
+*L'Europe et la Méditerranée* 法英双语 H32:113
 
 *La Dame aux Camélias* 双语 中国宇航出版社 H329.4：I 13
 
+*Fontainebleau* 影印 H329.4：61
+
+*La France, un territoire de l'Union européenne* H32:131
+
 *Notre-Dame de Paris* 双语 中国宇航出版社 H329.4：I 19
 
-*Les Trois Mousquetaires* 改编 双语 北京语言大学出版社 H339.4: I 21
+*Grenoble vues d'en bas* TU-882: 22
+
+*Guest Guide Provinces de France 88* 法英双语 无标签
+
+*Guignol's Band* H329.4: I 38
+
+*Histoire de la Civilisation et de la Literature Française* I565.074:9
+
+*Jean Gillette, Photographe de la Riviera* J421: 96
+
+*Manger est un Acte Citoyen* 影印 H329.4：62
+
+*Monsieur le Consul* 影印 H329.4：79
+
+*Nouvelle Histoire de la Langue Française* H32:130
+
+*Nos Richesses* 影印 H329.4：60
+
+*Le Parfait secrétaire* H329.4: I 37
+
+*Promenade(s) des Anglais* K565.9:2
+
+*Revue des Deux Mondes (2002)* H329.4: 85
+
+*Revue des Deux Mondes (2003/05)* H329.4: 71
+
+*Revue des Deux Mondes (2006/08)* H329.4: 72
+
+*Le Savoir-vivre aujourd'hui* G40-55：2
+
+*Subjectivité et Vérité* 影印 H329.4：63
+
+*Les Temps Modernes* H329.4: 65
+
+*Le Theatre* H329.4: 39
+
+*Toulouse International* 法英双语 无标签
+
+*Toulouse patrimoine & art de vivre* TU-882: 24
+
+*Toulouse Ville Rose* 法英双语 TU-882: 21
 
 *Le Tour du Monde en Quatre-vingts Jours* 中国宇航出版社 H329.4：I 21
+
+*Les Trois Mousquetaires* 改编 双语 北京语言大学出版社 H339.4: I 21
 
 《法国文化渐进 初级》上海译文出版社 H329：G 1
 
@@ -453,6 +517,8 @@
 《7天学会基础法语》北京理工大学出版社 H32：135
 
 《商务法语教程》外研社 H32：33
+
+《实用法语》商务印书馆 H32：118
 
 《外教社走进经典法语阅读系列》外教社 H329.4：I 2， 6
 
