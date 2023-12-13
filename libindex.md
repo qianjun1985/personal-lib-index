@@ -434,9 +434,15 @@
 
 *Ambassades de France en Chine* H32:127
 
+*Bernanos* H329.4: 82
+
 *Les Bourgeois Gentilhomme* 改编 双语 北京语言大学出版社 H339.4: I 24
 
 *Cent Ans de Chanson Française* H329.4: 70
+
+*Code Civil* D933.33: 1
+
+*Code de Commerce* D933.33: 2
 
 *Commentaire xxxe Anniversaire* H32:121
 
@@ -452,11 +458,19 @@
 
 *La Dame aux Camélias* 双语 中国宇航出版社 H329.4：I 13
 
+*Façades Lyonnaises* TU-882: 25
+
+*Fêtes du monde* K891:42
+
 *Fontainebleau* 影印 H329.4：61
+
+*La France des institutions* H329.4: 57
 
 *La France, un territoire de l'Union européenne* H32:131
 
 *Notre-Dame de Paris* 双语 中国宇航出版社 H329.4：I 19
+
+*La Géographie de l'Europe des I5* K991: 18
 
 *Grenoble vues d'en bas* TU-882: 22
 
@@ -480,6 +494,8 @@
 
 *Promenade(s) des Anglais* K565.9:2
 
+*Les Québécois* H329.4: 75
+
 *Revue des Deux Mondes (2002)* H329.4: 85
 
 *Revue des Deux Mondes (2003/05)* H329.4: 71
@@ -494,6 +510,8 @@
 
 *Le Theatre* H329.4: 39
 
+*300 dictées progressives commentées* H329.6:17
+
 *Toulouse International* 法英双语 无标签
 
 *Toulouse patrimoine & art de vivre* TU-882: 24
@@ -503,6 +521,8 @@
 *Le Tour du Monde en Quatre-vingts Jours* 中国宇航出版社 H329.4：I 21
 
 *Les Trois Mousquetaires* 改编 双语 北京语言大学出版社 H339.4: I 21
+
+*Le voyage du fils* H32：110
 
 《法国文化渐进 初级》上海译文出版社 H329：G 1
 
