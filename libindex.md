@@ -1,5 +1,7 @@
 ### 英语
-1984 译林出版社 H319.4: I 1012
+*1984* 译林出版社 H319.4: I 1012
+
+*Absalom, Absalom!* 中央编译出版社 H319.4: I551
 
 *Alice's Adventures in Wonderland* 译林出版社 H319.4: I 886
 
