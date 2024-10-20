@@ -176,6 +176,8 @@
 
 *Mansfield Park* 中译出版社 H319.4: 1233
 
+*Martin Eden* 中央编译出版社 H319.4: 1001
+
 *Of Mice and Men* 译林出版社 H319.4: I 1489
 
 *The Mill on the Floss* 辽宁人民出版社 H319.4: 1236
