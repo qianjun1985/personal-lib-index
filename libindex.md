@@ -162,7 +162,7 @@
 
 *Lincoln the Unknown* 译林出版社 H319.4: K 68
 
-*Lost Girl* 中央编译出版社 H319.4：I313
+*The Lost Girl* 中央编译出版社 H319.4：I313
 
 *Lost Horizon* 云南人民出版社 H319.4: I 943
 
